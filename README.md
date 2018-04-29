@@ -9,6 +9,9 @@ START
 -----
 
 	$ chmod +x wallets.py (unix)
+
+one of:
+
 	$ python3 wallets.py
 	$ ./wallets.py
 
