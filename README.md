@@ -37,6 +37,7 @@ select interface, have only 2 options (gui, console)
 **-d,--debug:** 
 
 information for debug
+
 **-l,--list:** 
 
 print list wallutes and they description on russian language
